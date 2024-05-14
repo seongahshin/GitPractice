@@ -13,8 +13,7 @@ struct ContentView: View {
             Image(systemName: "circle")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            // 수정 ;
-            
+            // 수정 ;\\
             Text("Hello, Brooklyn!")
             Text("Hello, Brooklyn!")
             Text("Hello, Brooklyn!")
